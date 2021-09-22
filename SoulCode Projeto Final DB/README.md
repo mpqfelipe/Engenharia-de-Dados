@@ -26,6 +26,6 @@ https://www.kaggle.com/lintangwisesa/top-10-programming-lang-ide-database-200420
 * Felipe
 * Gabriel
 * Artur
-
+* Daniel
 
 
