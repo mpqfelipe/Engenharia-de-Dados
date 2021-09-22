@@ -3,7 +3,7 @@
 
    ## Descrição 
 
-A proposta deste trabalho é tratar dados do dataset e extratir informações e construir graficos
+A proposta deste trabalho é tratar dados do dataset, extratir informações e construir graficos
 
 ## DataSet Utilizado
 https://www.kaggle.com/lintangwisesa/top-10-programming-lang-ide-database-20042021?select=top10db.csv
