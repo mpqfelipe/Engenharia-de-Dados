@@ -1,11 +1,12 @@
 # Análise de dados 
 ### Projeto desenvolvido durante o curso de Engenharia de Dados Soul Code
-## Descrição 
 
-A proposta deste trabalho é aplicar recursos úteis para a interpretação do Dataset sobre o impacto da COVID-19 na educação infantil venezuelana e extrair informações relevantes sobre o tema.
+   ## Descrição 
+
+A proposta deste trabalho é tratar dados do dataset e extratir informações e construir graficos
 
 ## DataSet Utilizado
-https://www.kaggle.com/leventoz/covid19-education-impact-survey
+https://www.kaggle.com/lintangwisesa/top-10-programming-lang-ide-database-20042021?select=top10db.csv
 
 
 ## Tecnologias utilizadas 
@@ -15,13 +16,16 @@ https://www.kaggle.com/leventoz/covid19-education-impact-survey
 * PyMongo
 * Pandas
 * MatPloitLib
+* PySpark
  
 ## Integrantes do grupo 
 
-* Heloise
-* Laisa
+* Fernando
+* Danilo
 * Renata
 * Felipe
+* Gabriel
+* Artur
 
 
 
